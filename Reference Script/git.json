@@ -1,6 +1,6 @@
 [
     {
-        "p_rel_url" : "anshlamba03/Adventure-Works-Data-Engineering-Project/main/Data/AdventureWorks_Product_Categories.csv",
+        "p_rel_url" : "LilBoss69/Adventure-Works-Data-Engineering-Project/refs/heads/main/Data/AdventureWorks_Product_Categories.csv",
         "p_sink_folder" : "AdventureWorks_Product_Categories",
         "p_sink_file" : "AdventureWorks_Product_Categories.csv"
     },
